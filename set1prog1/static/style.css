@@ -1,0 +1,41 @@
+body
+{
+    background-color: chocolate;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: darkblue;
+    text-align: center;
+    
+}
+
+form{
+    background-color: aqua;
+    width: 50%;
+    margin: auto;
+    padding: 10px;
+    
+}
+
+
+
+input[type=text]
+{
+    border: black;
+}
+
+input[type=number]
+{
+    border: black;
+    
+
+}
+
+input[type=submit]
+{
+    background-color: darkkhaki;
+    
+
+}
